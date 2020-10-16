@@ -1,0 +1,15 @@
+mediassit team for claims
+
+
+ORM : OBJECT RELATIONAL MAPPER
+{used in django}
+ : Class 'className' (models.model):
+	 charfield
+	textfield : unlimited space
+	catetimefiled():
+			auto_now=true [automatic update everytime]
+			auto_now_add=true[first time automatic entry time]	
+NOTE : Register models in admin,py file to view it on admin webpage
+----------------------------------------------------------------------------------
+RegitrationForms [exxistinf forms]
+ - usercreationForm
